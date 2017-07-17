@@ -1,0 +1,30 @@
+{
+    "name": "build",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "browser-sync": "*",
+        "del": "*",
+        "gulp": "*",
+        "gulp-autoprefixer": "*",
+        "gulp-cache": "*",
+        "gulp-clean-css": "*",
+        "gulp-concat": "*",
+        "gulp-if": "*",
+        "gulp-imagemin": "*",
+        "gulp-notify": "*",
+        "gulp-rename": "*",
+        "gulp-less": "*",
+        "gulp-sftp": "^0.1.5",
+        "gulp-uglifyjs": "*",
+        "gulp-useref": "*",
+        "imagemin-pngquant": "*"
+    }
+}
+--save - dev gulp
